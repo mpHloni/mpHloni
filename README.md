@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel letlhogonolo mopedi
 - 👀 I’m interested in becoming a software developer 
-- 🌱 I’m currently learning Bsc in computer science and informatics at university of johannesburg. 
+- 🌱 I’m currently Studying Bsc in computer science and informatics at university of johannesburg. 
 - 📫 How to reach me conatct me at 064 931 6734
 
 <!---
